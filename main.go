@@ -17,8 +17,7 @@ var (
 	port  = ""
 	d     = "" // 下载标识
 	dbUrl = map[string]string{
-		"1": "https://ghproxy.com/?q=https://github.com/lionsoul2014/ip2region/blob/master/data/ip2region.xdb?raw=true",
-		"2": "https://ghproxy.com/?q=https://github.com/bqf9979/ip2region/blob/master/data/ip2region.db?raw=true",
+		"1": "https://github.com/timiray/go-ip2region/releases/download/latest/ip2region.db",
 	}
 )
 
